@@ -1,0 +1,9 @@
+{
+    "editor.letterSpacing": 0,
+    "files.exclude": {
+        "**/obj": true
+    },
+    "explorer.compactFolders": false,
+    "csharpextensions.privateMemberPrefix": "_",
+    "csharpextensions.useThisForCtorAssignments": false
+}
